@@ -64,9 +64,9 @@ This project is licensed under the [MIT License](LICENSE). You’re free to use,
 
 If you have any questions, suggestions, or just want to say hello, feel free to reach out to me:
 
-- **Email**: [your.email@example.com](mailto:your.email@example.com)
+- **Email**: udaysathvara027@gmail.com .
 - **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
-- **Twitter**: [@YourTwitterHandle](https://twitter.com/yourhandle)
+
 
 Thank you for visiting my portfolio! 🌟 I hope you enjoy exploring it as much as I enjoyed creating it. 🚀
 
@@ -74,5 +74,5 @@ Happy coding! 😄
 
 ---
 
-*Made with ❤️ by [Your Name]*# Portfolio-Website
-My Portfolio Website
+*Made with ❤️ by [Uday Sathvara]*# 
+
